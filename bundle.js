@@ -1,4 +1,5 @@
 
+/******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
 /***/ "./node_modules/@alpinejs/intersect/dist/module.esm.js":
